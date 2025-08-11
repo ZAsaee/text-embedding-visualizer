@@ -1,0 +1,62 @@
+﻿About the job
+Who We Are
+"HP IQ is HP’s new AI innovation lab. Combining startup agility with HP’s global scale, we’re building intelligent technologies that redefine how the world works, creates, and collaborates."
+"We’re assembling a diverse, world-class team—engineers, designers, researchers, and product minds—focused on creating an intelligent ecosystem across HP’s portfolio. Together, we’re developing intuitive, adaptive solutions that spark creativity, boost productivity, and make collaboration seamless."
+"We create breakthrough solutions that make complex tasks feel effortless, teamwork more natural, and ideas more impactful—always with a human-centric mindset."
+"By embedding AI advancements into every HP product and service, we’re expanding what’s possible for individuals, organisations, and the future of work."
+"Join us as we reinvent work, so people everywhere can do their best work."
+About The Role
+"As a Senior AI Engineer in HP IQ’s AI Platform team, you’ll be responsible for designing and implementing the intelligent orchestration layer that powers CosmOS—HP’s agentic AI operating system. You will help develop the memory systems, context graphs, and toolchain infrastructure that enable LLM-driven agents to plan, act, and adapt to real-world user workflows."
+"This is a hands-on role working closely with technical leadership to prototype, scale, and productize multi-agent systems. The ideal candidate brings strong systems thinking, deep experience with LLMs or agentic architectures, and a passion for building intelligent, real-time user experiences."
+What You Might Do
+"Design and build orchestration infrastructure for LLM-based agents, spanning tool routing, memory context, and planning logic"
+"Collaborate with modeling and UX teams to define behavior, context handoff, and interaction patterns across modalities and form factors"
+Implement personalized memory systems that span sessions and persist across devices
+"Integrate with third-party LLM APIs (e.g., OpenAI, Claude) and optimize prompt strategies for planning and decision making"
+"Prototype and deploy agentic frameworks (e.g., LangChain, ReAct, AutoGPT) in a production-grade system"
+Contribute to the overall system design and technical direction of CosmOS’ agent stack
+"Design and run experiments to fine-tune and evaluate LLM-based agents on real-world tasks, iterating to improve performance and reliability"
+"Contribute to model curation, including dataset generation, labeling strategies, and quality checks that support personalized and contextual agent behavior"
+Apply model optimization techniques such as pruning and quantization to improve on-device performance and reduce latency 
+Essential Qualifications
+"7+ years of software engineering experience, with 3+ years building AI/LLM agent systems, planning pipelines, or orchestration frameworks"
+"BS or MS in Computer Science, Artificial Intelligence, or a related field"
+"Strong programming expertise in Python and/or TypeScript, with experience in scalable backend systems"
+"Familiarity with agentic frameworks (LangChain, OpenAI Function Calling, etc.) and graph-based memory or planning structures"
+Proven ability to ship production-grade software in complex system environments
+"Experience in model development workflows—including data curation, fine-tuning, evaluation, and iteration to improve model quality. Ability to independently run experiments to optimize models for performance and utility. "
+Preferred Skills
+Experience with multi-agent architectures and long-term context tracking
+"Background in symbolic planning, knowledge graphs, or retrieval-augmented generation"
+"Familiarity with cloud-native deployment environments (Docker, Kubernetes, AWS/GCP)"
+Contributions to open-source agentic systems or ML infrastructure stacks
+"Experience optimizing LLM-based systems for latency, interpretability, and reliability"
+"Hands-on knowledge of model compression and efficiency techniques, including model pruning and quantization "
+"The pay range for this role is $146,650 to $244,850 USD annually with additional"
+opportunities for pay in the form of bonus and/or equity (applies to United
+"States of America candidates only). Pay varies by work location, job-related"
+Benefits
+"knowledge, skills, and experience."
+"HP offers a comprehensive benefits package for this position, including:"
+Health insurance
+Dental insurance
+Vision insurance
+Long term/short term disability insurance
+Employee assistance program
+Flexible spending account
+Life insurance
+"Generous time off policies, including;"
+4-12 weeks fully paid parental leave based on tenure
+11 paid holidays
+Additional flexible paid vacation and sick leave (US benefits overview
+[https://hpbenefits.ce.alight.com/])
+The compensation and benefits information is accurate as of the date of this
+"posting. The Company reserves the right to modify this information at any time,"
+"with or without notice, subject to applicable law."
+Why HP IQ?
+"HP IQ is HP’s new AI innovation lab, building the intelligence to empower humanity—reimagining how we work, create, and connect to shape the future of work."
+Innovative Work Help shape the future of intelligent computing and workplace transformation.
+"Autonomy and Agility Work with the speed and focus of a startup, backed by HP’s scale."
+Meaningful Impact Build AI-powered solutions that help people and organisations thrive.
+Flexible Work Environment Freedom and flexibility to do your best work.
+"Forward-Thinking Culture We learn fast, stay future-focused, and imagine what comes next—together."

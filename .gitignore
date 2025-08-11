@@ -1,0 +1,22 @@
+@"
+# Python
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pkl
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets
+.env
+"@ | Out-File .gitignore -Encoding utf8
+
+# Remove previously tracked junk from the index (keeps files on disk)
+git rm -r --cached .venv env venv __pycache__ .ipynb_checkpoints *.dll *.lib *.pdb *.so *.dylib *.exe *.bin 2>$null

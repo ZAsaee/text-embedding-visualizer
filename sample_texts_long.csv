@@ -1,0 +1,203 @@
+text
+Overfitting happens when a model memorizes training data.
+UMAP is an alternative to t-SNE for manifold learning.
+Optical character recognition reads text from images.
+Convolutional neural networks are common in vision tasks.
+GPT models generate human-like text from prompts.
+Recommender systems can combine multiple techniques.
+Text-to-speech synthesizes spoken audio from text.
+Fine-tuning adapts pre-trained models to new tasks.
+Bagging ensembles train models on bootstrapped samples.
+Recurrent neural networks handle sequential data.
+Speech recognition converts spoken words to text.
+ROC curves visualize classification performance.
+Reinforcement learning trains agents via rewards and penalties.
+Content-based filtering uses item features for recommendations.
+Active learning chooses which data to label next.
+MLOps automates ML model deployment and monitoring.
+Stacking ensembles blend different types of models.
+Collaborative filtering uses user-item interactions.
+Random forests aggregate multiple decision trees.
+Continuous delivery deploys ML models regularly.
+Ensemble learning combines predictions from multiple models.
+Fairness in ML ensures models don't discriminate.
+F1 score is the harmonic mean of precision and recall.
+UMAP is an alternative to t-SNE for manifold learning.
+Gradient boosting builds models sequentially to fix errors.
+Random forests aggregate multiple decision trees.
+Time series forecasting predicts future values.
+Question answering systems find answers in text.
+Data drift occurs when input data changes over time.
+Variational autoencoders learn latent data representations.
+BERT is a transformer model pre-trained on text.
+Classification predicts discrete labels.
+Online learning updates models incrementally.
+Recommendation systems suggest relevant items to users.
+One-hot encoding converts categories to binary vectors.
+Adam optimizer adapts learning rates for each parameter.
+Boosting ensembles focus on correcting prior errors.
+Image segmentation divides images into meaningful parts.
+Feature engineering improves model performance.
+Bagging ensembles train models on bootstrapped samples.
+Attention mechanisms improve sequence modeling.
+Regularization prevents overfitting by penalizing complexity.
+Concept drift changes the relationship between inputs and outputs.
+Confusion matrices summarize classification results.
+Batch learning trains models on the entire dataset at once.
+SGD optimizer updates parameters with gradients.
+ROC curves visualize classification performance.
+AI governance defines policies for responsible AI.
+Ethical AI considers societal impacts of algorithms.
+Support vector machines classify data using hyperplanes.
+Variational autoencoders learn latent data representations.
+Model monitoring detects drift and performance drops.
+Cross-validation helps estimate model generalization.
+LSTMs are a type of RNN that mitigate vanishing gradients.
+ARIMA is a classic time series model.
+Continuous delivery deploys ML models regularly.
+Federated learning trains models across decentralized devices.
+Batch learning trains models on the entire dataset at once.
+Adam optimizer adapts learning rates for each parameter.
+Data augmentation increases dataset size artificially.
+Self-supervised learning uses unlabeled data effectively.
+Serverless ML runs functions without managing servers.
+Regression predicts continuous numeric values.
+Instance segmentation detects objects and outlines them.
+Learning rate schedules adjust the optimizer's step size.
+GANs generate realistic images from random noise.
+Reinforcement learning trains agents via rewards and penalties.
+Learning rate schedules adjust the optimizer's step size.
+Question answering systems find answers in text.
+Regression predicts continuous numeric values.
+Recommendation systems suggest relevant items to users.
+Semi-supervised learning combines labeled and unlabeled data.
+Recommender systems can combine multiple techniques.
+BERT is a transformer model pre-trained on text.
+Transfer learning reuses models trained on large datasets.
+Word embeddings map words into vector space.
+Transformers use self-attention for sequence modeling.
+Feature engineering improves model performance.
+Early stopping halts training to prevent overfitting.
+GPT models generate human-like text from prompts.
+Kubernetes orchestrates containerized ML workloads.
+Kubernetes orchestrates containerized ML workloads.
+Principal component analysis reduces data dimensionality.
+Serverless ML runs functions without managing servers.
+Precision and recall measure classification accuracy.
+One-hot encoding converts categories to binary vectors.
+Decision trees split data based on feature values.
+Neural networks can forecast time series data.
+AWS SageMaker hosts and trains ML models.
+Clustering algorithms group similar items together.
+Prophet is a time series model from Facebook.
+AWS SageMaker hosts and trains ML models.
+Transformers use self-attention for sequence modeling.
+Fine-tuning adapts pre-trained models to new tasks.
+Prophet is a time series model from Facebook.
+Model interpretability explains predictions.
+LSTMs are a type of RNN that mitigate vanishing gradients.
+Edge AI deploys models to devices near data sources.
+Principal component analysis reduces data dimensionality.
+Reinforcement learning can train robots to walk.
+Boosting ensembles focus on correcting prior errors.
+Computer vision is used in autonomous vehicles.
+Machine learning enables computers to learn from data.
+Recurrent neural networks handle sequential data.
+Natural language processing focuses on human language data.
+Cloud platforms offer scalable ML infrastructure.
+Zero-shot learning performs tasks without labeled data.
+Data drift occurs when input data changes over time.
+Few-shot learning uses only a few examples per class.
+Chatbots interact with users in natural language.
+Bias can enter models via unrepresentative data.
+Cloud platforms offer scalable ML infrastructure.
+Instance segmentation detects objects and outlines them.
+Homomorphic encryption enables computation on encrypted data.
+Hyperparameter tuning optimizes model configuration.
+Anomaly detection finds unusual data patterns.
+Fairness in ML ensures models don't discriminate.
+Neural networks can forecast time series data.
+Deep learning uses neural networks with many layers.
+Object detection locates items in images.
+GANs generate realistic images from random noise.
+t-SNE visualizes high-dimensional data in 2D or 3D.
+Decision trees split data based on feature values.
+AI governance defines policies for responsible AI.
+LIME approximates local feature importance.
+Time series forecasting predicts future values.
+Azure ML Studio enables drag-and-drop ML pipelines.
+Classification predicts discrete labels.
+Feature scaling standardizes input data ranges.
+SHAP values quantify feature contributions.
+Data augmentation increases dataset size artificially.
+Word embeddings map words into vector space.
+Hyperparameter tuning optimizes model configuration.
+Azure ML Studio enables drag-and-drop ML pipelines.
+Differential privacy protects individual data in ML.
+SHAP values quantify feature contributions.
+Concept drift changes the relationship between inputs and outputs.
+Image segmentation divides images into meaningful parts.
+Pose estimation identifies positions of key points in images.
+Continuous integration tests new ML code automatically.
+F1 score is the harmonic mean of precision and recall.
+Google Vertex AI offers managed ML services.
+Model monitoring detects drift and performance drops.
+ARIMA is a classic time series model.
+Zero-shot learning performs tasks without labeled data.
+Embedding layers learn dense vector representations.
+Early stopping halts training to prevent overfitting.
+Natural language processing focuses on human language data.
+Synthetic data generation creates artificial datasets.
+Feature scaling standardizes input data ranges.
+Differential privacy protects individual data in ML.
+Support vector machines classify data using hyperplanes.
+Overfitting happens when a model memorizes training data.
+Semi-supervised learning combines labeled and unlabeled data.
+Computer vision interprets visual information from the world.
+Ethical AI considers societal impacts of algorithms.
+K-means clustering groups data into k clusters.
+Embedding layers learn dense vector representations.
+Online learning updates models incrementally.
+Anomaly detection finds unusual data patterns.
+Stacking ensembles blend different types of models.
+Computer vision interprets visual information from the world.
+Object detection locates items in images.
+Speech recognition converts spoken words to text.
+Content-based filtering uses item features for recommendations.
+Confusion matrices summarize classification results.
+Optical character recognition reads text from images.
+Regularization prevents overfitting by penalizing complexity.
+Text-to-speech synthesizes spoken audio from text.
+Homomorphic encryption enables computation on encrypted data.
+Model interpretability explains predictions.
+Convolutional neural networks are common in vision tasks.
+Deep learning uses neural networks with many layers.
+Docker packages ML environments into containers.
+LIME approximates local feature importance.
+Computer vision is used in autonomous vehicles.
+Ensemble learning combines predictions from multiple models.
+K-means clustering groups data into k clusters.
+Reinforcement learning can train robots to walk.
+Docker packages ML environments into containers.
+Precision and recall measure classification accuracy.
+Synthetic data generation creates artificial datasets.
+Federated learning trains models across decentralized devices.
+Few-shot learning uses only a few examples per class.
+Active learning chooses which data to label next.
+Gradient boosting builds models sequentially to fix errors.
+Continuous integration tests new ML code automatically.
+Google Vertex AI offers managed ML services.
+Self-supervised learning uses unlabeled data effectively.
+Bias can enter models via unrepresentative data.
+t-SNE visualizes high-dimensional data in 2D or 3D.
+Attention mechanisms improve sequence modeling.
+Transfer learning reuses models trained on large datasets.
+Chatbots interact with users in natural language.
+MLOps automates ML model deployment and monitoring.
+Clustering algorithms group similar items together.
+Pose estimation identifies positions of key points in images.
+Edge AI deploys models to devices near data sources.
+Cross-validation helps estimate model generalization.
+Collaborative filtering uses user-item interactions.
+SGD optimizer updates parameters with gradients.
+Machine learning enables computers to learn from data.

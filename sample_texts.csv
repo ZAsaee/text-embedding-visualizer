@@ -1,0 +1,11 @@
+text
+Transformers are powerful models for sequence modeling.
+Self-attention lets each token attend to every other token.
+UMAP is a non-linear dimensionality reduction technique.
+t-SNE is useful for visualizing high-dimensional data.
+Embeddings map text to vectors in a semantic space.
+KMeans partitions data into K clusters.
+Sentence-Transformers provides high-quality sentence embeddings.
+Clustering reveals structure in unlabeled data.
+Interactive visualization helps communicate ML ideas.
+This is a short example corpus to try the app quickly.
