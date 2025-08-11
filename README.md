@@ -11,6 +11,7 @@ You can:
 
 # Try It Out
 Live app: [https://zasaee-text-embedding-visualizer-app-qmmew9.streamlit.app/] 
+
 Want a quick example? Use the included sample_texts_multitheme.csv. It’s got four themes (ML, Healthcare, Finance, Manufacturing) so you’ll see nice, clean clusters right away.
 
 # Why I Built This?!
